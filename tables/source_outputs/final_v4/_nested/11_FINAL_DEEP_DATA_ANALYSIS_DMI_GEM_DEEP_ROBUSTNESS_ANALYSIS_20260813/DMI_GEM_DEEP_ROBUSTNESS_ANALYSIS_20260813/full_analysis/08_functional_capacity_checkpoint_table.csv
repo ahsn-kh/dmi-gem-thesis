@@ -1,0 +1,19 @@
+source,threshold,threshold_num,max_ATP,ATP_margin,evidence_scope
+GSE305719,NT,0,5.244,1.7439999999999998,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P5,5,6.93,3.4299999999999997,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P10,10,6.93,3.4299999999999997,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P15,15,6.93,3.4299999999999997,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P20,20,6.857,3.357,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P25,25,6.857,3.357,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P30,30,3.553,0.052999999999999936,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P35,35,3.553,0.052999999999999936,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P40,40,3.533,0.03299999999999992,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P45,45,5.207,1.7069999999999999,final project checkpoint values; exact source archive not embedded in V4
+GSE305719,P50,50,4.605,1.1050000000000004,final project checkpoint values; exact source archive not embedded in V4
+GSE17576,P20,20,5.0,1.5,final project threshold/boundary evidence; values reported approximately in project audit
+GSE17576,P25,25,3.553,0.052999999999999936,final project threshold/boundary evidence; values reported approximately in project audit
+GSE17576,P30,30,3.553,0.052999999999999936,final project threshold/boundary evidence; values reported approximately in project audit
+GSE17576,P35,35,5.198,1.6980000000000004,final project threshold/boundary evidence; values reported approximately in project audit
+GSE17576,P40,40,3.53,0.029999999999999805,final project threshold/boundary evidence; values reported approximately in project audit
+GSE17576,P45,45,3.533,0.03299999999999992,final project threshold/boundary evidence; values reported approximately in project audit
+GSE17576,P50,50,1.58,-1.92,final project threshold/boundary evidence; values reported approximately in project audit

@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.lic
+*.ovpn
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+__MACOSX/
+._*

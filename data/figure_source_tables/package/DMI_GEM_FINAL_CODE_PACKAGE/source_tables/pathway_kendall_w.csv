@@ -1,0 +1,25 @@
+source,pathway,W,q,significant_q_lt_0_05
+GSE17576,Creatine phosphate buffering,0.4074074074074077,0.032,True
+GSE17576,Fatty acid uptake & beta-oxidation,0.044444444444444876,,False
+GSE17576,Glucose uptake/phosphorylation,0.37685185185185216,0.045,True
+GSE17576,Glutamate/aKG metabolism,0.1888888888888888,,False
+GSE17576,Glutamine metabolism,0.11944444444444476,,False
+GSE17576,Glycolysis,0.2064814814814818,,False
+GSE17576,Ketone metabolism,0.6935185185185185,0.00012,True
+GSE17576,Lactate metabolism,0.15740740740740775,,False
+GSE17576,Oxidative phosphorylation,0.17777777777777773,,False
+GSE17576,Pyruvate oxidation,0.08518518518518547,,False
+GSE17576,Redox shuttles,0.15648148148148167,,False
+GSE17576,TCA cycle,0.14259259259259296,,False
+GSE305719,Creatine phosphate buffering,0.12685185185185213,,False
+GSE305719,Fatty acid uptake & beta-oxidation,0.2833333333333332,,False
+GSE305719,Glucose uptake/phosphorylation,0.2564814814814819,,False
+GSE305719,Glutamate/aKG metabolism,0.125,,False
+GSE305719,Glutamine metabolism,0.2555555555555558,,False
+GSE305719,Glycolysis,0.11666666666666654,,False
+GSE305719,Ketone metabolism,0.6222222222222223,0.00036,True
+GSE305719,Lactate metabolism,0.18055555555555594,,False
+GSE305719,Oxidative phosphorylation,0.18518518518518512,,False
+GSE305719,Pyruvate oxidation,0.22962962962963,,False
+GSE305719,Redox shuttles,0.1824074074074075,,False
+GSE305719,TCA cycle,0.2555555555555558,,False

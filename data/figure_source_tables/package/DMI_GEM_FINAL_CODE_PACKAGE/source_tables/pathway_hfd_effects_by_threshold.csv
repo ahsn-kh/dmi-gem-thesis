@@ -1,0 +1,379 @@
+source,threshold,tissue,pathway,effect
+GSE17576,5,Gastrocnemius,Fatty acid uptake & beta-oxidation,-0.2613682765709544
+GSE17576,5,Gastrocnemius,Glutamate/aKG metabolism,-0.0719201057669766
+GSE17576,5,Gastrocnemius,Glycolysis,0.0311813223372148
+GSE17576,5,Gastrocnemius,Lactate metabolism,0.4370042815186152
+GSE17576,5,Gastrocnemius,Oxidative phosphorylation,0.0929821811410694
+GSE17576,5,Gastrocnemius,Pyruvate oxidation,0.052589097355465
+GSE17576,5,Gastrocnemius,TCA cycle,0.6686685318721463
+GSE17576,5,Soleus,Fatty acid uptake & beta-oxidation,0.4019785337257051
+GSE17576,5,Soleus,Glutamate/aKG metabolism,-0.0479459972333867
+GSE17576,5,Soleus,Glycolysis,0.3210177364960321
+GSE17576,5,Soleus,Lactate metabolism,-0.1260521042608942
+GSE17576,5,Soleus,Oxidative phosphorylation,-0.0834725975567565
+GSE17576,5,Soleus,Pyruvate oxidation,0.9053198846175636
+GSE17576,5,Soleus,TCA cycle,0.2025693714599522
+GSE17576,5,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.4798062361103935
+GSE17576,5,TibialisAnt,Glutamate/aKG metabolism,-0.3362681813754952
+GSE17576,5,TibialisAnt,Glycolysis,-0.1091536363899211
+GSE17576,5,TibialisAnt,Lactate metabolism,0.0107819109328693
+GSE17576,5,TibialisAnt,Oxidative phosphorylation,0.0609637532981195
+GSE17576,5,TibialisAnt,Pyruvate oxidation,0.2157015088394581
+GSE17576,5,TibialisAnt,TCA cycle,-0.4765512077638368
+GSE17576,10,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.1178254921475873
+GSE17576,10,Gastrocnemius,Glutamate/aKG metabolism,-0.2336585021478443
+GSE17576,10,Gastrocnemius,Glycolysis,-0.1151875799002687
+GSE17576,10,Gastrocnemius,Lactate metabolism,0.0789225249405592
+GSE17576,10,Gastrocnemius,Oxidative phosphorylation,0.1728895286655317
+GSE17576,10,Gastrocnemius,Pyruvate oxidation,0.2719190263623723
+GSE17576,10,Gastrocnemius,TCA cycle,0.4429436910671369
+GSE17576,10,Soleus,Fatty acid uptake & beta-oxidation,0.3723750213264888
+GSE17576,10,Soleus,Glutamate/aKG metabolism,-0.0320890832588138
+GSE17576,10,Soleus,Glycolysis,0.4156682012514223
+GSE17576,10,Soleus,Lactate metabolism,0.1326262327848504
+GSE17576,10,Soleus,Oxidative phosphorylation,0.0642905530820442
+GSE17576,10,Soleus,Pyruvate oxidation,-0.8360567474723305
+GSE17576,10,Soleus,TCA cycle,-0.2325317798755354
+GSE17576,10,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.2708775031941883
+GSE17576,10,TibialisAnt,Glutamate/aKG metabolism,-0.3051946775512164
+GSE17576,10,TibialisAnt,Glycolysis,-0.0456697700819898
+GSE17576,10,TibialisAnt,Lactate metabolism,-0.2185991016072728
+GSE17576,10,TibialisAnt,Oxidative phosphorylation,-0.1812839914277034
+GSE17576,10,TibialisAnt,Pyruvate oxidation,-0.089828405557457
+GSE17576,10,TibialisAnt,TCA cycle,0.316721020385814
+GSE17576,15,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.6599913803204501
+GSE17576,15,Gastrocnemius,Glutamate/aKG metabolism,0.9283087223325484
+GSE17576,15,Gastrocnemius,Glycolysis,1.1505301768716467
+GSE17576,15,Gastrocnemius,Lactate metabolism,0.6663019666797556
+GSE17576,15,Gastrocnemius,Oxidative phosphorylation,-0.0684508629804176
+GSE17576,15,Gastrocnemius,Pyruvate oxidation,1.3282209762695227
+GSE17576,15,Gastrocnemius,TCA cycle,0.4572404685374536
+GSE17576,15,Soleus,Fatty acid uptake & beta-oxidation,0.1624515668626531
+GSE17576,15,Soleus,Glutamate/aKG metabolism,-0.8902729588440044
+GSE17576,15,Soleus,Glycolysis,0.4812268174027572
+GSE17576,15,Soleus,Lactate metabolism,0.3049151030259868
+GSE17576,15,Soleus,Oxidative phosphorylation,0.0840762218698588
+GSE17576,15,Soleus,Pyruvate oxidation,0.2132371348383142
+GSE17576,15,Soleus,TCA cycle,0.0360920216169722
+GSE17576,15,TibialisAnt,Fatty acid uptake & beta-oxidation,0.5636490004300717
+GSE17576,15,TibialisAnt,Glutamate/aKG metabolism,0.2448927332184769
+GSE17576,15,TibialisAnt,Glycolysis,0.1106172079113531
+GSE17576,15,TibialisAnt,Lactate metabolism,0.4116767441951355
+GSE17576,15,TibialisAnt,Oxidative phosphorylation,-0.0476956245137839
+GSE17576,15,TibialisAnt,Pyruvate oxidation,0.1630743651833381
+GSE17576,15,TibialisAnt,TCA cycle,0.4311891591801629
+GSE17576,20,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.3487723131470447
+GSE17576,20,Gastrocnemius,Glutamate/aKG metabolism,0.2772965428737089
+GSE17576,20,Gastrocnemius,Glycolysis,0.0967068289446343
+GSE17576,20,Gastrocnemius,Lactate metabolism,-0.1498210149569458
+GSE17576,20,Gastrocnemius,Oxidative phosphorylation,-0.0279036472681706
+GSE17576,20,Gastrocnemius,Pyruvate oxidation,0.3260173070976173
+GSE17576,20,Gastrocnemius,TCA cycle,-0.4125022432644731
+GSE17576,20,Soleus,Fatty acid uptake & beta-oxidation,0.2803070894685519
+GSE17576,20,Soleus,Glutamate/aKG metabolism,-0.4765657884731928
+GSE17576,20,Soleus,Glycolysis,-0.1791337631134246
+GSE17576,20,Soleus,Lactate metabolism,0.2565669190685344
+GSE17576,20,Soleus,Oxidative phosphorylation,0.0546263377577368
+GSE17576,20,Soleus,Pyruvate oxidation,-0.002618793392693
+GSE17576,20,Soleus,TCA cycle,0.2663877470591387
+GSE17576,20,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.1307673327574566
+GSE17576,20,TibialisAnt,Glutamate/aKG metabolism,0.6437772782890194
+GSE17576,20,TibialisAnt,Glycolysis,0.4243953555826227
+GSE17576,20,TibialisAnt,Lactate metabolism,0.3985655704294256
+GSE17576,20,TibialisAnt,Oxidative phosphorylation,0.0274931105382492
+GSE17576,20,TibialisAnt,Pyruvate oxidation,-0.4093597592729252
+GSE17576,20,TibialisAnt,TCA cycle,0.7998915002518275
+GSE17576,25,Gastrocnemius,Fatty acid uptake & beta-oxidation,-0.0988264838758988
+GSE17576,25,Gastrocnemius,Glutamate/aKG metabolism,-0.4979842958339398
+GSE17576,25,Gastrocnemius,Glycolysis,-0.1626341436377496
+GSE17576,25,Gastrocnemius,Lactate metabolism,-0.0267883073106669
+GSE17576,25,Gastrocnemius,Oxidative phosphorylation,-0.009273354900471
+GSE17576,25,Gastrocnemius,Pyruvate oxidation,-0.1118866650244935
+GSE17576,25,Gastrocnemius,TCA cycle,0.0674071017726549
+GSE17576,25,Soleus,Fatty acid uptake & beta-oxidation,0.1197863006142323
+GSE17576,25,Soleus,Glutamate/aKG metabolism,0.3984128241488847
+GSE17576,25,Soleus,Glycolysis,0.0007815212430054
+GSE17576,25,Soleus,Lactate metabolism,-0.0786333033839469
+GSE17576,25,Soleus,Oxidative phosphorylation,-0.0325183831109242
+GSE17576,25,Soleus,Pyruvate oxidation,0.1259191083905209
+GSE17576,25,Soleus,TCA cycle,-0.0044546687117194
+GSE17576,25,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.6704650792894075
+GSE17576,25,TibialisAnt,Glutamate/aKG metabolism,-0.6028555768419245
+GSE17576,25,TibialisAnt,Glycolysis,-0.5588349321515494
+GSE17576,25,TibialisAnt,Lactate metabolism,-0.150072136048566
+GSE17576,25,TibialisAnt,Oxidative phosphorylation,-0.0441007570812761
+GSE17576,25,TibialisAnt,Pyruvate oxidation,-0.6071655809234416
+GSE17576,25,TibialisAnt,TCA cycle,-0.3745142153127472
+GSE17576,30,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.1027768677764986
+GSE17576,30,Gastrocnemius,Glutamate/aKG metabolism,-0.0690689860461152
+GSE17576,30,Gastrocnemius,Glycolysis,0.1285593425384744
+GSE17576,30,Gastrocnemius,Lactate metabolism,-0.0801859587447429
+GSE17576,30,Gastrocnemius,Oxidative phosphorylation,0.0023405293010939
+GSE17576,30,Gastrocnemius,Pyruvate oxidation,0.2879851692972048
+GSE17576,30,Gastrocnemius,TCA cycle,-0.0727400005851245
+GSE17576,30,Soleus,Fatty acid uptake & beta-oxidation,-0.1718481945861183
+GSE17576,30,Soleus,Glutamate/aKG metabolism,-0.0405626311312404
+GSE17576,30,Soleus,Glycolysis,0.1331768691650675
+GSE17576,30,Soleus,Lactate metabolism,-0.2247473591130163
+GSE17576,30,Soleus,Oxidative phosphorylation,0.1280739136754785
+GSE17576,30,Soleus,Pyruvate oxidation,-0.1647415708744075
+GSE17576,30,Soleus,TCA cycle,-0.3686714961285417
+GSE17576,30,TibialisAnt,Fatty acid uptake & beta-oxidation,0.0657636287645428
+GSE17576,30,TibialisAnt,Glutamate/aKG metabolism,-0.1075040107225384
+GSE17576,30,TibialisAnt,Glycolysis,0.2405600555204368
+GSE17576,30,TibialisAnt,Lactate metabolism,-0.2018985838459147
+GSE17576,30,TibialisAnt,Oxidative phosphorylation,-0.0676429116974186
+GSE17576,30,TibialisAnt,Pyruvate oxidation,0.2713532272619499
+GSE17576,30,TibialisAnt,TCA cycle,-0.461086573630052
+GSE17576,35,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.3273999534276515
+GSE17576,35,Gastrocnemius,Glutamate/aKG metabolism,0.1453588032136758
+GSE17576,35,Gastrocnemius,Glycolysis,0.1851887088985653
+GSE17576,35,Gastrocnemius,Lactate metabolism,0.2793889661124417
+GSE17576,35,Gastrocnemius,Oxidative phosphorylation,-0.0116651688967061
+GSE17576,35,Gastrocnemius,Pyruvate oxidation,0.6806984648436911
+GSE17576,35,Gastrocnemius,TCA cycle,-0.1174840103697718
+GSE17576,35,Soleus,Fatty acid uptake & beta-oxidation,-0.2576078579371895
+GSE17576,35,Soleus,Glutamate/aKG metabolism,0.0716207680534487
+GSE17576,35,Soleus,Glycolysis,-0.1064233264686115
+GSE17576,35,Soleus,Lactate metabolism,-0.2558611308046322
+GSE17576,35,Soleus,Oxidative phosphorylation,0.0075447505981657
+GSE17576,35,Soleus,Pyruvate oxidation,-0.1579611284926507
+GSE17576,35,Soleus,TCA cycle,-0.0438282597641417
+GSE17576,35,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.2309437567728177
+GSE17576,35,TibialisAnt,Glutamate/aKG metabolism,-0.3328695801345904
+GSE17576,35,TibialisAnt,Glycolysis,0.189378852863313
+GSE17576,35,TibialisAnt,Lactate metabolism,0.1299746540939144
+GSE17576,35,TibialisAnt,Oxidative phosphorylation,-0.0169085904365877
+GSE17576,35,TibialisAnt,Pyruvate oxidation,-0.3956495473149961
+GSE17576,35,TibialisAnt,TCA cycle,-0.4888991147616429
+GSE17576,40,Gastrocnemius,Fatty acid uptake & beta-oxidation,-0.5252804166801234
+GSE17576,40,Gastrocnemius,Glutamate/aKG metabolism,-0.3713149621552765
+GSE17576,40,Gastrocnemius,Glycolysis,-0.0379185176502735
+GSE17576,40,Gastrocnemius,Lactate metabolism,0.2227204086798121
+GSE17576,40,Gastrocnemius,Oxidative phosphorylation,-0.1113288785455287
+GSE17576,40,Gastrocnemius,Pyruvate oxidation,-0.901224185444796
+GSE17576,40,Gastrocnemius,TCA cycle,-0.2314098269075897
+GSE17576,40,Soleus,Fatty acid uptake & beta-oxidation,-0.3000175552687628
+GSE17576,40,Soleus,Glutamate/aKG metabolism,-0.7980463901500989
+GSE17576,40,Soleus,Glycolysis,-0.1909805749609856
+GSE17576,40,Soleus,Lactate metabolism,-0.0940871140085617
+GSE17576,40,Soleus,Oxidative phosphorylation,-0.1057918240932061
+GSE17576,40,Soleus,Pyruvate oxidation,-0.2271849330213132
+GSE17576,40,Soleus,TCA cycle,-0.2905740184286677
+GSE17576,40,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.2542278438629923
+GSE17576,40,TibialisAnt,Glutamate/aKG metabolism,-0.4433728588679581
+GSE17576,40,TibialisAnt,Glycolysis,0.2107914098827118
+GSE17576,40,TibialisAnt,Lactate metabolism,-0.1792412747640329
+GSE17576,40,TibialisAnt,Oxidative phosphorylation,-0.0568837596538688
+GSE17576,40,TibialisAnt,Pyruvate oxidation,-0.7854839895103037
+GSE17576,40,TibialisAnt,TCA cycle,-0.2541089143187008
+GSE17576,45,Gastrocnemius,Fatty acid uptake & beta-oxidation,-0.4909535783819794
+GSE17576,45,Gastrocnemius,Glutamate/aKG metabolism,-0.4792562966189562
+GSE17576,45,Gastrocnemius,Glycolysis,-0.5488498493428792
+GSE17576,45,Gastrocnemius,Lactate metabolism,-0.2665044759140871
+GSE17576,45,Gastrocnemius,Oxidative phosphorylation,-0.1634417645215264
+GSE17576,45,Gastrocnemius,Pyruvate oxidation,-1.042425692816923
+GSE17576,45,Gastrocnemius,TCA cycle,-0.1926636017308487
+GSE17576,45,Soleus,Fatty acid uptake & beta-oxidation,0.0315282536198327
+GSE17576,45,Soleus,Glutamate/aKG metabolism,-0.2146227243589369
+GSE17576,45,Soleus,Glycolysis,-0.1196065378573653
+GSE17576,45,Soleus,Lactate metabolism,-0.0584257855265563
+GSE17576,45,Soleus,Oxidative phosphorylation,0.126938845002508
+GSE17576,45,Soleus,Pyruvate oxidation,-0.3459127803545267
+GSE17576,45,Soleus,TCA cycle,-0.1221693410827097
+GSE17576,45,TibialisAnt,Fatty acid uptake & beta-oxidation,0.0156271094285755
+GSE17576,45,TibialisAnt,Glutamate/aKG metabolism,-0.3114871005113832
+GSE17576,45,TibialisAnt,Glycolysis,-0.3453267008444089
+GSE17576,45,TibialisAnt,Lactate metabolism,-0.2470635512321195
+GSE17576,45,TibialisAnt,Oxidative phosphorylation,-0.0425563159724868
+GSE17576,45,TibialisAnt,Pyruvate oxidation,-0.5315068309302312
+GSE17576,45,TibialisAnt,TCA cycle,-0.3028639432946782
+GSE305719,5,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.1256213230213259
+GSE305719,5,Gastrocnemius,Glutamate/aKG metabolism,-0.2105422978717341
+GSE305719,5,Gastrocnemius,Glycolysis,-0.0231209301311897
+GSE305719,5,Gastrocnemius,Lactate metabolism,0.3125121855828234
+GSE305719,5,Gastrocnemius,Oxidative phosphorylation,0.0985832707205029
+GSE305719,5,Gastrocnemius,Pyruvate oxidation,0.2304038739783872
+GSE305719,5,Gastrocnemius,TCA cycle,0.8368587573647288
+GSE305719,5,Soleus,Fatty acid uptake & beta-oxidation,0.2012676160569469
+GSE305719,5,Soleus,Glutamate/aKG metabolism,-0.0088168226822316
+GSE305719,5,Soleus,Glycolysis,0.481395230525776
+GSE305719,5,Soleus,Lactate metabolism,0.2231917324188464
+GSE305719,5,Soleus,Oxidative phosphorylation,0.0961285845083169
+GSE305719,5,Soleus,Pyruvate oxidation,-0.2392213813833395
+GSE305719,5,Soleus,TCA cycle,0.3288931545320657
+GSE305719,5,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.1052636694821169
+GSE305719,5,TibialisAnt,Glutamate/aKG metabolism,-0.3374771218188089
+GSE305719,5,TibialisAnt,Glycolysis,0.0465059205845485
+GSE305719,5,TibialisAnt,Lactate metabolism,-0.1514430442902824
+GSE305719,5,TibialisAnt,Oxidative phosphorylation,0.1145155796874101
+GSE305719,5,TibialisAnt,Pyruvate oxidation,0.1952045262248125
+GSE305719,5,TibialisAnt,TCA cycle,-0.0112111922782316
+GSE305719,10,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.3502564248972113
+GSE305719,10,Gastrocnemius,Glutamate/aKG metabolism,-0.0413428066174449
+GSE305719,10,Gastrocnemius,Glycolysis,-0.1187356239998493
+GSE305719,10,Gastrocnemius,Lactate metabolism,0.1876236243768637
+GSE305719,10,Gastrocnemius,Oxidative phosphorylation,0.0989513477080411
+GSE305719,10,Gastrocnemius,Pyruvate oxidation,0.6708969943296891
+GSE305719,10,Gastrocnemius,TCA cycle,0.4591159181883944
+GSE305719,10,Soleus,Fatty acid uptake & beta-oxidation,0.5375433550353673
+GSE305719,10,Soleus,Glutamate/aKG metabolism,-0.0786484361792631
+GSE305719,10,Soleus,Glycolysis,0.1073337799955635
+GSE305719,10,Soleus,Lactate metabolism,0.0556107872010268
+GSE305719,10,Soleus,Oxidative phosphorylation,-0.0152389047900108
+GSE305719,10,Soleus,Pyruvate oxidation,0.3520779262776363
+GSE305719,10,Soleus,TCA cycle,0.0965212546777492
+GSE305719,10,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.1351487910632259
+GSE305719,10,TibialisAnt,Glutamate/aKG metabolism,-0.2374169687392551
+GSE305719,10,TibialisAnt,Glycolysis,-0.1420233765759821
+GSE305719,10,TibialisAnt,Lactate metabolism,-0.0347554603181951
+GSE305719,10,TibialisAnt,Oxidative phosphorylation,-0.1525614788691374
+GSE305719,10,TibialisAnt,Pyruvate oxidation,-0.1669608060411257
+GSE305719,10,TibialisAnt,TCA cycle,-0.3646250835478135
+GSE305719,15,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.4898026562578049
+GSE305719,15,Gastrocnemius,Glutamate/aKG metabolism,0.6009740484521033
+GSE305719,15,Gastrocnemius,Glycolysis,0.4002428824134696
+GSE305719,15,Gastrocnemius,Lactate metabolism,0.4057770716150076
+GSE305719,15,Gastrocnemius,Oxidative phosphorylation,-0.0434229969560389
+GSE305719,15,Gastrocnemius,Pyruvate oxidation,1.7277335856618592
+GSE305719,15,Gastrocnemius,TCA cycle,0.1242620415331249
+GSE305719,15,Soleus,Fatty acid uptake & beta-oxidation,0.5782613555758929
+GSE305719,15,Soleus,Glutamate/aKG metabolism,-0.1596772155421144
+GSE305719,15,Soleus,Glycolysis,-0.1592184233220414
+GSE305719,15,Soleus,Lactate metabolism,0.0495560270797031
+GSE305719,15,Soleus,Oxidative phosphorylation,0.0612519711309141
+GSE305719,15,Soleus,Pyruvate oxidation,0.057066259402434
+GSE305719,15,Soleus,TCA cycle,0.5303005444142587
+GSE305719,15,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.0379304965393395
+GSE305719,15,TibialisAnt,Glutamate/aKG metabolism,-0.4535868005380356
+GSE305719,15,TibialisAnt,Glycolysis,0.4796982444449479
+GSE305719,15,TibialisAnt,Lactate metabolism,0.978783549484911
+GSE305719,15,TibialisAnt,Oxidative phosphorylation,0.0270532176647937
+GSE305719,15,TibialisAnt,Pyruvate oxidation,-0.3436825480482341
+GSE305719,15,TibialisAnt,TCA cycle,-0.7823711514294172
+GSE305719,20,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.2379792842396628
+GSE305719,20,Gastrocnemius,Glutamate/aKG metabolism,0.158856708934459
+GSE305719,20,Gastrocnemius,Glycolysis,-0.2990468606251068
+GSE305719,20,Gastrocnemius,Lactate metabolism,0.4111690718761679
+GSE305719,20,Gastrocnemius,Oxidative phosphorylation,0.0094927304877718
+GSE305719,20,Gastrocnemius,Pyruvate oxidation,-0.930820676779163
+GSE305719,20,Gastrocnemius,TCA cycle,0.3610778403427756
+GSE305719,20,Soleus,Fatty acid uptake & beta-oxidation,0.2521718859707882
+GSE305719,20,Soleus,Glutamate/aKG metabolism,-0.1527266674974764
+GSE305719,20,Soleus,Glycolysis,0.2294341336997107
+GSE305719,20,Soleus,Lactate metabolism,0.3386628045391894
+GSE305719,20,Soleus,Oxidative phosphorylation,-0.0525236884172814
+GSE305719,20,Soleus,Pyruvate oxidation,0.3874536422892892
+GSE305719,20,Soleus,TCA cycle,0.1745666462941694
+GSE305719,20,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.1724469397974289
+GSE305719,20,TibialisAnt,Glutamate/aKG metabolism,-0.4331455633920961
+GSE305719,20,TibialisAnt,Glycolysis,0.5730401604746491
+GSE305719,20,TibialisAnt,Lactate metabolism,-0.0870081709808693
+GSE305719,20,TibialisAnt,Oxidative phosphorylation,-0.3197960760392566
+GSE305719,20,TibialisAnt,Pyruvate oxidation,-0.8675431809938365
+GSE305719,20,TibialisAnt,TCA cycle,-0.3435701407625466
+GSE305719,25,Gastrocnemius,Fatty acid uptake & beta-oxidation,0.4565488569227627
+GSE305719,25,Gastrocnemius,Glutamate/aKG metabolism,-0.2701807361172509
+GSE305719,25,Gastrocnemius,Glycolysis,-0.1908720962992111
+GSE305719,25,Gastrocnemius,Lactate metabolism,-0.1299646775314286
+GSE305719,25,Gastrocnemius,Oxidative phosphorylation,-0.170798974614752
+GSE305719,25,Gastrocnemius,Pyruvate oxidation,-0.1832412897091581
+GSE305719,25,Gastrocnemius,TCA cycle,0.0361269031960137
+GSE305719,25,Soleus,Fatty acid uptake & beta-oxidation,0.5382336319818667
+GSE305719,25,Soleus,Glutamate/aKG metabolism,-0.0647833766581872
+GSE305719,25,Soleus,Glycolysis,0.1363341854057912
+GSE305719,25,Soleus,Lactate metabolism,0.0508987000152194
+GSE305719,25,Soleus,Oxidative phosphorylation,0.0645321219136677
+GSE305719,25,Soleus,Pyruvate oxidation,0.0422131439940195
+GSE305719,25,Soleus,TCA cycle,0.0443229160278568
+GSE305719,25,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.5279821206785832
+GSE305719,25,TibialisAnt,Glutamate/aKG metabolism,-0.2273331585989841
+GSE305719,25,TibialisAnt,Glycolysis,0.0145223372145663
+GSE305719,25,TibialisAnt,Lactate metabolism,-0.1551971825089669
+GSE305719,25,TibialisAnt,Oxidative phosphorylation,0.0078849749943127
+GSE305719,25,TibialisAnt,Pyruvate oxidation,-0.643542824323053
+GSE305719,25,TibialisAnt,TCA cycle,-0.3872815636424878
+GSE305719,30,Gastrocnemius,Fatty acid uptake & beta-oxidation,-0.579909033686974
+GSE305719,30,Gastrocnemius,Glutamate/aKG metabolism,-0.1974320984887975
+GSE305719,30,Gastrocnemius,Glycolysis,-0.274154882913026
+GSE305719,30,Gastrocnemius,Lactate metabolism,-0.5598399577997033
+GSE305719,30,Gastrocnemius,Oxidative phosphorylation,-0.006092585337208
+GSE305719,30,Gastrocnemius,Pyruvate oxidation,-0.5099220497677687
+GSE305719,30,Gastrocnemius,TCA cycle,-0.7111873034683739
+GSE305719,30,Soleus,Fatty acid uptake & beta-oxidation,0.0620708380957367
+GSE305719,30,Soleus,Glutamate/aKG metabolism,0.1616979224477681
+GSE305719,30,Soleus,Glycolysis,0.0316316428611828
+GSE305719,30,Soleus,Lactate metabolism,0.3389790816447945
+GSE305719,30,Soleus,Oxidative phosphorylation,0.0511518478900895
+GSE305719,30,Soleus,Pyruvate oxidation,-0.0800310804755678
+GSE305719,30,Soleus,TCA cycle,-0.0197538830256657
+GSE305719,30,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.253916625939765
+GSE305719,30,TibialisAnt,Glutamate/aKG metabolism,0.252860200515334
+GSE305719,30,TibialisAnt,Glycolysis,0.0200424947269091
+GSE305719,30,TibialisAnt,Lactate metabolism,-0.1097142078276067
+GSE305719,30,TibialisAnt,Oxidative phosphorylation,0.0054471936621516
+GSE305719,30,TibialisAnt,Pyruvate oxidation,0.5023542059867325
+GSE305719,30,TibialisAnt,TCA cycle,0.1226189819867113
+GSE305719,35,Gastrocnemius,Fatty acid uptake & beta-oxidation,-0.4284535724912613
+GSE305719,35,Gastrocnemius,Glutamate/aKG metabolism,-0.0180841686589016
+GSE305719,35,Gastrocnemius,Glycolysis,-0.4174888393390081
+GSE305719,35,Gastrocnemius,Lactate metabolism,-0.1955326703618198
+GSE305719,35,Gastrocnemius,Oxidative phosphorylation,-0.0224765118586763
+GSE305719,35,Gastrocnemius,Pyruvate oxidation,-0.4098887158867043
+GSE305719,35,Gastrocnemius,TCA cycle,-0.4186536377391857
+GSE305719,35,Soleus,Fatty acid uptake & beta-oxidation,0.4610737095883703
+GSE305719,35,Soleus,Glutamate/aKG metabolism,0.1071001218583256
+GSE305719,35,Soleus,Glycolysis,-0.029662522999734
+GSE305719,35,Soleus,Lactate metabolism,0.1988557053969006
+GSE305719,35,Soleus,Oxidative phosphorylation,0.0465757549118098
+GSE305719,35,Soleus,Pyruvate oxidation,1.7244455497235296
+GSE305719,35,Soleus,TCA cycle,0.1175880320004791
+GSE305719,35,TibialisAnt,Fatty acid uptake & beta-oxidation,-0.3542738148419424
+GSE305719,35,TibialisAnt,Glutamate/aKG metabolism,-0.2089853165397678
+GSE305719,35,TibialisAnt,Glycolysis,0.0698001879305061
+GSE305719,35,TibialisAnt,Lactate metabolism,0.0998231110259487
+GSE305719,35,TibialisAnt,Oxidative phosphorylation,-0.0060289145660484
+GSE305719,35,TibialisAnt,Pyruvate oxidation,-0.2462123869468714
+GSE305719,35,TibialisAnt,TCA cycle,-0.3844712764496978
+GSE305719,40,Gastrocnemius,Fatty acid uptake & beta-oxidation,-0.554890863636143
+GSE305719,40,Gastrocnemius,Glutamate/aKG metabolism,-0.0777287834514511
+GSE305719,40,Gastrocnemius,Glycolysis,-0.1657844607422249
+GSE305719,40,Gastrocnemius,Lactate metabolism,-0.3619902227500624
+GSE305719,40,Gastrocnemius,Oxidative phosphorylation,-0.043673487933976
+GSE305719,40,Gastrocnemius,Pyruvate oxidation,-0.3808503783394385
+GSE305719,40,Gastrocnemius,TCA cycle,-0.5666390589152395
+GSE305719,40,Soleus,Fatty acid uptake & beta-oxidation,0.4439055437796761
+GSE305719,40,Soleus,Glutamate/aKG metabolism,0.3808196524166394
+GSE305719,40,Soleus,Glycolysis,0.1180037527908743
+GSE305719,40,Soleus,Lactate metabolism,0.4887531258902932
+GSE305719,40,Soleus,Oxidative phosphorylation,0.0768681579078536
+GSE305719,40,Soleus,Pyruvate oxidation,0.8192901895729284
+GSE305719,40,Soleus,TCA cycle,0.1670126893440469
+GSE305719,40,TibialisAnt,Fatty acid uptake & beta-oxidation,0.097026286082386
+GSE305719,40,TibialisAnt,Glutamate/aKG metabolism,-0.5285940400021202
+GSE305719,40,TibialisAnt,Glycolysis,0.2191921566113085
+GSE305719,40,TibialisAnt,Lactate metabolism,0.1478516109115323
+GSE305719,40,TibialisAnt,Oxidative phosphorylation,0.0137296774828243
+GSE305719,40,TibialisAnt,Pyruvate oxidation,0.3304587146104547
+GSE305719,40,TibialisAnt,TCA cycle,-0.1378103377521479
+GSE305719,45,Gastrocnemius,Fatty acid uptake & beta-oxidation,-0.510469030366836
+GSE305719,45,Gastrocnemius,Glutamate/aKG metabolism,-0.1417855365912914
+GSE305719,45,Gastrocnemius,Glycolysis,-0.2845299121953217
+GSE305719,45,Gastrocnemius,Lactate metabolism,-0.3052594834010142
+GSE305719,45,Gastrocnemius,Oxidative phosphorylation,-0.1354189021661479
+GSE305719,45,Gastrocnemius,Pyruvate oxidation,-0.8241724072954328
+GSE305719,45,Gastrocnemius,TCA cycle,-0.3093850831711087
+GSE305719,45,Soleus,Fatty acid uptake & beta-oxidation,0.1963031995994201
+GSE305719,45,Soleus,Glutamate/aKG metabolism,-0.1272414655622514
+GSE305719,45,Soleus,Glycolysis,-0.3153471728544192
+GSE305719,45,Soleus,Lactate metabolism,-0.4391797131797963
+GSE305719,45,Soleus,Oxidative phosphorylation,0.0970443825417776
+GSE305719,45,Soleus,Pyruvate oxidation,0.1437009876301312
+GSE305719,45,Soleus,TCA cycle,0.805615598421914
+GSE305719,45,TibialisAnt,Fatty acid uptake & beta-oxidation,0.4472088903032681
+GSE305719,45,TibialisAnt,Glutamate/aKG metabolism,0.2291247483066927
+GSE305719,45,TibialisAnt,Glycolysis,0.5076462649942463
+GSE305719,45,TibialisAnt,Lactate metabolism,0.3912316928044306
+GSE305719,45,TibialisAnt,Oxidative phosphorylation,0.1034217302148848
+GSE305719,45,TibialisAnt,Pyruvate oxidation,1.223576117683681
+GSE305719,45,TibialisAnt,TCA cycle,0.2964487743881936

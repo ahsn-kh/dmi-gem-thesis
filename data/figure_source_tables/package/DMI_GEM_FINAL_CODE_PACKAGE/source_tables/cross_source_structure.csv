@@ -1,0 +1,10 @@
+threshold,gse17576_reactions,gse305719_reactions,shared,gse17576_only,gse305719_only,jaccard,structure_basis,threshold_num
+P5,8367,7926,7784,583,142,0.914796098248913,final simulation-input/reconstruction XML reaction membership before DMI optimization,5
+P10,8022,7799,7562,460,237,0.9156072163700206,final simulation-input/reconstruction XML reaction membership before DMI optimization,10
+P15,8004,7712,7472,532,240,0.9063561377971858,final simulation-input/reconstruction XML reaction membership before DMI optimization,15
+P20,7842,7543,7374,468,169,0.920484334040694,final simulation-input/reconstruction XML reaction membership before DMI optimization,20
+P25,7642,7271,7073,569,198,0.9021683673469388,final simulation-input/reconstruction XML reaction membership before DMI optimization,25
+P30,7397,7165,6899,498,266,0.9003001435469138,final simulation-input/reconstruction XML reaction membership before DMI optimization,30
+P35,7106,7043,6825,281,218,0.9318678317859094,final simulation-input/reconstruction XML reaction membership before DMI optimization,35
+P40,6804,6575,6259,545,316,0.8790730337078652,final simulation-input/reconstruction XML reaction membership before DMI optimization,40
+P45,6547,6299,6020,527,279,0.8819220627014357,final simulation-input/reconstruction XML reaction membership before DMI optimization,45
